@@ -1,7 +1,7 @@
 # ♟️ Chess Game in C
 
 A terminal-based **Chess game implemented in C**, featuring complete piece movements, captures, and **check/checkmate detection**.  
-This project was built as part of our learning in **Data Structures and Algorithms** and **Object-Oriented Programming in C**.
+This project was built as part of our learning in **C Programming**.
 
 ---
 
@@ -12,19 +12,17 @@ This project was built as part of our learning in **Data Structures and Algorith
 - Turn-based gameplay (White vs Black).
 - Simple **console interface**.
 - Beginner-friendly code with comments.
+- Timer for each move
 
 ---
 
 ## 🛠️ Technologies Used
 - **C Programming**
-- **File Handling** (if saving/loading games)
-- **Structs & Pointers** for managing pieces and board
-- **Terminal-based UI**
 
 ---
 
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chess-game.git
-   cd chess-game
+   git clone https://github.com/your-username/Sathurangam.git
+   cd Sathurangam
