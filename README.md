@@ -24,5 +24,5 @@ This project was built as part of our learning in **C Programming**.
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Sathurangam.git
+   git clone https://github.com/M-DhanyaShree/Sathurangam.git
    cd Sathurangam
